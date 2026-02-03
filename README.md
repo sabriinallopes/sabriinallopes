@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7c4dff&height=120&section=header"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=9575cd&size=35&center=true&vCenter=true&width=1000&lines=Olá,+tudo+bem?;Meu+nome+é+Sabrina+Lopes;Desenvolvedora+em+formação;Seja+Bem-vindo(a)!+:%29">
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7c4dff&height=120&section=header"/>
+
+## Sabrina Lopes
 
 ---
 
