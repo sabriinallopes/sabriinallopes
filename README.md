@@ -1,24 +1,26 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7c4dff&height=120&section=header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=9575cd&size=32&center=true&vCenter=true&width=1000&lines=Olá,+tudo+bem?;Meu+nome+é+Sabrina+Lopes;Desenvolvedora+em+formação;Seja+bem-vindo(a)+:%29">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=9575cd&size=35&center=true&vCenter=true&width=1000&lines=Olá,+tudo+bem?;Meu+nome+é+Sabrina+Lopes;Desenvolvedora+em+formação;Seja+Bem-vindo(a)!+:%29">
 </div>
 
 ---
 
-## 💜 Sobre mim
+<div align="center">
 
 🎓 **Desenvolvedora em formação**  
 ☁️ Estudando **Cloud Computing, Inteligência Artificial e Dados**  
 🤖 Foco em **IA** e **Engenharia de Dados**  
 💼 Atualmente **estagiária**  
-✅ Gosto quando o código funciona (principalmente em produção)
+✅ Gosto quando o código funciona  
+
+</div>
 
 ---
 
 <div align="center">  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sabriinallopes&show_icons=true&count_private=true&hide_border=true&title_color=7c4dff&icon_color=9575cd&text_color=d1c4e9&bg_color=0d1117" /> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabriinallopes&layout=compact&hide_border=true&title_color=7c4dff&text_color=d1c4e9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sabriinallopes&show_icons=true&count_private=true&hide_border=true&title_color=7c4dff&icon_color=9575cd&text_color=d1c4e9&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabriinallopes&layout=compact&hide_border=true&title_color=7c4dff&text_color=d1c4e9&bg_color=0d1117" />
 </div>
 
 ---
@@ -34,20 +36,23 @@
 ---
 
 ### 📚 Tecnologias em estudo
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-0D1117?style=for-the-badge&logo=googlecloud)
-![AI](https://img.shields.io/badge/Inteligência_Artificial-0D1117?style=for-the-badge&logo=openai)
+![Cloud](https://img.shields.io/badge/Cloud-0D1117?style=for-the-badge&logo=googlecloud)
+![IA](https://img.shields.io/badge/IA-0D1117?style=for-the-badge&logo=openai)
+
+</div>
 
 ---
 
-### 🌐 Conecte-se comigo
 <div align="center"> 
 <a href="https://www.linkedin.com/in/SABRINARAMALHO/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-7c4dff?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px">
 </a> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7c4dff&height=120&section=footer"/>
+
 
