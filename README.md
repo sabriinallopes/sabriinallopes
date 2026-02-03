@@ -8,11 +8,11 @@
 
 <div align="center">
 
-🎓 **Desenvolvedora em formação**  
+### 👩‍💻 Sobre mim
+🌱 **Desenvolvedora em formação**  
 ☁️ Estudando **Cloud Computing, Inteligência Artificial e Dados**  
 🤖 Foco em **IA** e **Engenharia de Dados**  
 💼 Atualmente **estagiária**  
-✅ Gosto quando o código funciona  
 
 </div>
 
@@ -47,10 +47,11 @@
 
 ---
 
-<div align="center"> 
+### 🌐 Conecte-se comigo
+<div align="center">
 <a href="https://www.linkedin.com/in/SABRINARAMALHO/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px">
-</a> 
+<img src="https://img.shields.io/badge/LinkedIn-7c4dff?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7c4dff&height=120&section=footer"/>
