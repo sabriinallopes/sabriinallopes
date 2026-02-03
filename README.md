@@ -1,19 +1,18 @@
-## 💜 Olá, tudo bem? Eu sou a Sabrina Lopes!
-
-🎯 Desenvolvedora Front-end em formação  
-🚀 Apaixonada por tecnologia, design e aprendizado contínuo  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7c4dff&height=120&section=header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=9575cd&size=30&center=true&vCenter=true&width=900&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Front-end+em+constante+evolução;Vamos+construir+coisas+incríveis!">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=9575cd&size=32&center=true&vCenter=true&width=1000&lines=Olá,+tudo+bem?;Meu+nome+é+Sabrina+Lopes;Desenvolvedora+em+formação;Seja+bem-vindo(a)+:%29">
 </div>
 
 ---
 
-### 👩‍💻 Sobre mim
-- 🌱 Atualmente estudando **Desenvolvimento Web Front-end**
-- 💡 Foco em **HTML, CSS e JavaScript**
-- 🎯 Buscando minha primeira oportunidade na área de tecnologia
-- 💜 Gosto de interfaces bonitas e código bem organizado
+## 💜 Sobre mim
+
+🎓 **Desenvolvedora em formação**  
+☁️ Estudando **Cloud Computing, Inteligência Artificial e Dados**  
+🤖 Foco em **IA** e **Engenharia de Dados**  
+💼 Atualmente **estagiária**  
+✅ Gosto quando o código funciona (principalmente em produção)
 
 ---
 
@@ -24,17 +23,31 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sabriinallopes&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sabriinallopes&bg_color=0d1117&color=d1c4e9&line=9575cd&point=7c4dff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ### 📚 Tecnologias em estudo
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-0D1117?style=for-the-badge&logo=googlecloud)
+![AI](https://img.shields.io/badge/Inteligência_Artificial-0D1117?style=for-the-badge&logo=openai)
 
 ---
 
 ### 🌐 Conecte-se comigo
-<div align="center">
+<div align="center"> 
 <a href="https://www.linkedin.com/in/SABRINARAMALHO/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-7c4dff?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+</a> 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7c4dff&height=120&section=footer"/>
 
