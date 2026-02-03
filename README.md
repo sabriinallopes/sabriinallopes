@@ -11,7 +11,7 @@
 
 </div>
 
----
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabriinallopes)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sabriinallopes&bg_color=0d1117&color=d1c4e9&line=9575cd&point=7c4dff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
