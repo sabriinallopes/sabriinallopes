@@ -11,15 +11,6 @@
 
 </div>
 
----
-
-<div align="center">  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sabriinallopes&show_icons=true&hide_border=true&title_color=7c4dff&icon_color=9575cd&text_color=d1c4e9&bg_color=0d1117" /> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabriinallopes&layout=compact&hide_border=true&title_color=7c4dff&text_color=d1c4e9&bg_color=0d1117" />
-</div>
->
-
----
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sabriinallopes&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
